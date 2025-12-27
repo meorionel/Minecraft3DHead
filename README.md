@@ -1,4 +1,4 @@
-<img src="https://mc-head.vercel.app/3d/java/uuid/90b27e82-deac-4e85-9155-10b055878ca9" alt="head" style="width=32px; height=32px;" align='center' width="128" height="128" >
+<img src="https://mchead.s22y.moe//3d/java/uuid/90b27e82-deac-4e85-9155-10b055878ca9" alt="head" style="width=32px; height=32px;" align='center' width="128" height="128" >
 
 # MC head
 
